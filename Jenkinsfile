@@ -10,7 +10,8 @@ pipeline {
                 }
             }
         }
-        */ /**/
+        */ 
+        
         stage('Build') {
             steps {
                 // Get some code from a GitHub repository
